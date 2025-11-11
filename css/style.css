@@ -172,7 +172,7 @@ line-height:40px; color:#52cfc8; border:1px solid #52cfc8; background:rgba(255,2
 .ly-contents.type-mind p {font-size:18px; line-height:24px;}
 
 .wrap-map {width:100%; height:auto; margin:10px auto;}
-.wrap-map img {width:100%; border-top:2px solid #ffeca1; border-bottom:2px solid #ffeca1;}
+.wrap-map iframe {width:100%; border-top:2px solid #ffeca1; border-bottom:2px solid #ffeca1;}
 .list-maps {margin:10px auto;
   max-width:78%;
   text-align:left;}
